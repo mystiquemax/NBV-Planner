@@ -1,4 +1,4 @@
-# AutoPlanScan
+# NBV-Planner
 
 ## Motivation
 
